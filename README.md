@@ -1,0 +1,2 @@
+# EvilCsp
+FUCK Chrome Csp
